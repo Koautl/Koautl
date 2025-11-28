@@ -1,4 +1,4 @@
-- Hi, 
+- Hi
 - I’m interested in Chess, Fishing, MMA, and Reading
 
 <!---
