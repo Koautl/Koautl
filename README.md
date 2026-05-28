@@ -1,4 +1,4 @@
-Hi there, I'm Robert! 👋I am a Computer Science student based in the Tri-state area, passionate about software development, systems programming, and building engaging applications. 
+Hi there, I'm Robert! 👋 I am a Computer Science student based in the Tri-state area, passionate about software development, systems programming, and building engaging applications. 
 Outside of programming, my interests include chess, reading, mixed martial arts, music, and collecting vinyl records.  I also enjoy fishing, playing over-the-board chess, and exploring analog media.
 🛠️ Languages & ToolsLanguages: Python, Java, C, C++, JavaScript, MySQL, HTML5, CSS, and Assembly x86.  
 Frameworks & Environments: Node.js, Express, and Phaser 3.0.  Tools & Hardware: Git, VS Code, Visual Studio, Bash scripting, and Arduino.  
